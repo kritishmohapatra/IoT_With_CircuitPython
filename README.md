@@ -6,9 +6,11 @@ A collection of hands-on IoT projects built with **CircuitPython** on the **Rasp
 
 
 ---
+![Banner](Assets/image.png)
+---
 
 ##  Hardware Used
-![Banner](Assets/image.png)
+
 
 - Raspberry Pi Pico 2 W (primary board)
 - Various sensors, displays, and modules (listed per project)
@@ -25,7 +27,7 @@ A collection of hands-on IoT projects built with **CircuitPython** on the **Rasp
 
 | # | Project | Category | Status |
 |---|---------|----------|--------|
-| 01 | [Blink — Onboard LED](./Project_01_Blink) | GPIO | ✅ |
+| 01 | [Blink — Onboard LED](Project_1\README.md) | GPIO | ✅ |
 | 02 | External LED + Button | GPIO | 🔜 |
 | 03 | PWM LED Breathing | GPIO | 🔜 |
 | 04 | DHT11 Temperature & Humidity | Sensors | 🔜 |
